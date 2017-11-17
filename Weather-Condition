@@ -1,0 +1,8 @@
+Drone tends to react on the weather conditions a lot. 
+More then 40 degrees teperature is very high for the drone experiment. It tends to loose GPS and the autonomous flight tends to result in the failure.
+It could cause the Hazardous situation.
+The cool weather is more preferable for this project. 
+The wind can affect the direciton of the drone as well as the STEP_SIZE of the drone. 
+You can get the all the weather conditions from the METAR Report.
+Here is the availibility of the METAR report.
+https://aviationweather.gov/metar?gis=off
